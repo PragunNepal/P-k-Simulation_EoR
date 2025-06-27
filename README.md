@@ -4,4 +4,4 @@
 3. The simulation is ready to run
 
 The simulation is of P(k) vs k plot for the HI map simulation - Reionization.
-Since the original code was run on Jupyter Notebook, I recommend to use the same. The rendering time depends from ~10 minutes to ~25 minutes.
+Since the original code was run on Jupyter Notebook, I recommend to use the same. The rendering time depends from ~2 minutes to ~5 minutes.
